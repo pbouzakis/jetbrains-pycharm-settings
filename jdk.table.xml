@@ -1,0 +1,168 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at ~/Development/api3/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="$USER_HOME$/Development/api3/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Development/api3/env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Development/api3/env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Development/api3/env/lib/python2.7/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Development/api3/env/lib/python2.7/site-packages/gevent_psycopg2-0.0.3-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Development/api3/env/lib/python2.7/site-packages/ddtrace-0.5.5-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Development/api3/env/lib/python2.7/site-packages/stravalib-0.6.3-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/Development/api3/env/lib/python2.7/site-packages/units-0.7-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/Development/api3/env/lib/python2.7/site-packages/arrow-0.10.0-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/Development/api3/env/lib/python2.7/site-packages/peloton-0.0.1-py2.7-macosx-10.11-x86_64.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1584370560" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Development/api3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/Development/pelo-api/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/Development/pelo-api/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/peloton-0.0.1-py2.7-macosx-10.6-intel.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/gevent_psycopg2-0.0.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1977753260" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Development/pelo-api" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/Development/pelo-api/env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/Development/pelo-api/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/peloton-0.0.1-py2.7-macosx-10.6-intel.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/gevent_psycopg2-0.0.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1977753260" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Development/pelo-api" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/Development/pelo-api/env (2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/Development/pelo-api/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/peloton-0.0.1-py2.7-macosx-10.6-intel.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/gevent_psycopg2-0.0.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1977753260" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Development/pelo-api" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at ~/Development/pelo-api/env (3)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/Development/pelo-api/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/peloton-0.0.1-py2.7-macosx-10.6-intel.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Development/pelo-api/env/lib/python2.7/site-packages/gevent_psycopg2-0.0.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1977753260" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Development/pelo-api" />
+    </jdk>
+  </component>
+</application>
