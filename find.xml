@@ -23,6 +23,7 @@
       <mask>/controllers/</mask>
       <mask>/controllers/*</mask>
       <mask>controllers/*</mask>
+      <mask>tests/</mask>
     </recentFileMasks>
   </component>
 </application>
